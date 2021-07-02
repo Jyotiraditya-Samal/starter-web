@@ -4,9 +4,10 @@ This is a simple website project for showing how to use git and github together.
 
 ## Introduction
 
-### Purpose
+This is an example to show different parts of Git Repository and various commands using a web project.
+## Purpose
 
-#### Deployment
+## Deployment
 
-##### How to Contribute
+## How to Contribute
 
