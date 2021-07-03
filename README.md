@@ -8,8 +8,11 @@ This is an example to show different parts of Git Repository and various command
 
 ## Purpose
 
-As stated above the main purpose is to provide examples for Git training.
+As stated above the main purpose is to provide simple examples for Git training.
+
 ## Deployment
+
+It can be deployed on any web server or local file system as well.
 
 ## How to Contribute
 
