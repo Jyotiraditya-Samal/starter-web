@@ -16,6 +16,8 @@ It can be deployed on any web server or local file system as well.
 
 ## How to Contribute
 
+Please fork this repostiory and issue Pull requests for review.
+
 ### Copyright
 
 2021 CodeSaga.
