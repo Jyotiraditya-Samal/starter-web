@@ -16,3 +16,6 @@ It can be deployed on any web server or local file system as well.
 
 ## How to Contribute
 
+### Copyright
+
+2021 CodeSaga.
